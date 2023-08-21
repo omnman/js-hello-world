@@ -5,6 +5,10 @@ to the console (the panel on the right)
 */
 
 console.log("'Hello, World!'")
+console.log(1)
+console.log("another line")
+console.log("one message, two messgaes")
+console.log("'Here's Johnny'")
 
 /*  
 Next, PLAY! 
